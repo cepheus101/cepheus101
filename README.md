@@ -1,57 +1,62 @@
 <div align="center">
- 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21E6C1&background=0D111700&center=true&vCenter=true&width=435&lines=root@cepheus101:~%23+init_profile;Loading+User:+Kartik...;Subject:+Physics+%2B+Astrophysics;OS:+Linux+(Arch+Workflow);Status:+Online" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:00c6ff&height=180&section=header&text=Kartik%20Gupta&fontSize=70&fontAlign=50&fontAlignY=35&desc=Physicist%20%7C%20Linux%20%7C%20Developer&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00c6ff&background=00000000&center=true&vCenter=true&width=600&lines=System:+Arch+Linux+(CachyOS);Running:+Astrophysics_Simulation;Task:+Looking+Up+at+the+Stars;Status:+Compiling+Universe..." alt="Typing SVG" />
+  </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90" />
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://media.giphy.com/media/QCLT1u283BqC1O26vK/giphy.gif" width="60">
+      <br><b>STATUS</b>
+    </td>
+    <td align="left">
+      🔭 <b>Focus:</b> &nbsp; Astrophysics, Radio Astronomy, Simulations<br>
+      🎓 <b>Class:</b> &nbsp; BSc Physics (Hons)<br>
+      🐧 <b>System:</b> &nbsp;Arch Linux (I use Arch btw)<br>
+      💬 <b>Motto:</b> &nbsp; <i>"To define is to limit."</i>
+    </td>
+  </tr>
+</table>
 </div>
 
-## 📡 Transmission Incoming...
-
-> *"The universe is written in the language of mathematics."*
-
-I am a **Physics Major** and aspiring **Astrophysicist** exploring the cosmos through code. A self-confessed computer geek, I shifted completely to **Linux** to build a workflow that matches the speed of my thoughts.
-
-* 🔭 **Current Objective:** Mastering Scientific Computing & Radio Astronomy.
-* 🐧 **Environment:** I run **Arch Linux** (KDE Plasma) on my rig.
-* ⚡ **Hardware:** Experimenting with **Arduino** & Sensors.
-* 🌌 **Interests:** Variable Stars, Simulation, and 3D Modeling.
-
----
-
-### 🛠️ The Arsenal
-
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-
-**Tools & OS**
-<br>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-
----
-
-### 📊 System Diagnostics
+<br />
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=cepheus101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="cepheus101's GitHub stats" />
+  <h3>⚡ THE ARSENAL</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fortran,java,cpp,latex&theme=dark" />
+  </a>
+  <br /><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,vim,arduino,blender,git,vscode&theme=dark" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>📊 ORBITAL TELEMETRY</h3>
   
-  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=cepheus101&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cepheus101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br /><br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=cepheus101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+  
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cepheus101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" />
+  
 </div>
 
-<br>
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:00c6ff&height=100&section=footer" />
 </div>
